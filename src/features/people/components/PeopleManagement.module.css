@@ -1,0 +1,10 @@
+.root {
+  display: flex;
+  flex-direction: column;
+  row-gap: 12px;
+
+  width: 200px;
+  background-color: blanchedalmond;
+  border-radius: 4px;
+  padding: 0.5rem 1rem;
+}
